@@ -1,0 +1,26 @@
+{
+  "name": "web-ps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mopays/web-ps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mopays/web-ps/issues"
+  },
+  "homepage": "https://github.com/mopays/web-ps#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "firebase": "^9.1.3",
+    "jarallax": "^1.12.7",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
